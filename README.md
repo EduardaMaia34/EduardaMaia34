@@ -1,6 +1,6 @@
 ### Olá! Eu sou Eduarda 
 
-- 🔭 Hoje trabalho com backend
+- 🔭 Apaixonada por backend
 - 🌱 Estudo programação desde os meus 13 anos
 - 📫 Contate-me: eduardamfmcavalcanti@gmail.com
 - 😄 Pronouns: ela/dela
