@@ -1,9 +1,7 @@
 ### Olá! Eu sou Eduarda 
 
-- 🔭 Apaixonada por backend
-- 🌱 Estudo programação desde os meus 13 anos
-- 📫 Contate-me: eduardamfmcavalcanti@gmail.com
-- 😄 Pronouns: ela/dela
+- 🔭 Love programming and backend
+- 👾 you'll find a lot of algorithms here
 
 <div align="center">
   <a href="https://github.com/EduardaMaia34">
