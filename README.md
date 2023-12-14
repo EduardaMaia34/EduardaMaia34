@@ -1,7 +1,7 @@
 ### Olá! Eu sou Eduarda 
 
 - 🔭 Love programming and backend
-- 👾 you'll find a lot of algorithms here
+- 👾 you'll find a lot of projects here
 
 <div align="center">
   <a href="https://github.com/EduardaMaia34">
