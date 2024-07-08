@@ -22,7 +22,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um estudante de Ciência da Computação.
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
 
 ## 📈 GitHub Stats
-
+![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardaMaia34&show_icons=true&theme=radical)
 [![EduardaMaia34](https://github-readme-stats.vercel.app/api?username=EduardaMaia34&show_icons=true&hide_border=true&theme=radical)](https://github.com/EduardaMaia34)
 
 ## 🏆 Top Repositories
