@@ -1,7 +1,5 @@
 # Hi There, I'm Eduarda 👋
 
-![Header](https://raw.githubusercontent.com/[username]/[repository]/master/[path_to_your_header_image])
-
 Welcome to my GitHub profile! I'm a Computer Science Student. Here's a bit more about me and what you'll find in my repositories.
 - 🔭 Love programming and backend
 - 👾 you'll find a lot of projects here
