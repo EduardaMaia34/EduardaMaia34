@@ -10,7 +10,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um estudante de Ciência da Computação.
 - 🔭 Amo programar e trabalhar com backend
 - 👾 Você encontrará muitos projetos aqui
 
-
+---
 ## 🔧 Technologies/Tecnologias
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -31,11 +31,11 @@ Bem-vindo ao meu perfil no GitHub! Sou um estudante de Ciência da Computação.
 
 ## 📫 Get in Touch
 
-- LinkedIn: ([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/eduarda-maia-6a4015212/))
+- LinkedIn: ([https://www.linkedin.com/in/eduarda-maia-6a4015212](https://www.linkedin.com/in/eduarda-maia-6a4015212/))
 - Email: [eduardamfmcavalcanti@gmail.com](mailto:eduardamfmcavalcanti@gmail.com)
 
 ---
-
 Thank you for visiting my profile. Feel free to explore my repositories and get in touch if you'd like to collaborate!
 
+---
 Obrigado por visitar o meu perfil. Fique à vontade para explorar meus repositórios e entrar em contato se quiser colaborar!
