@@ -1,17 +1,17 @@
-# Hi There, I'm Eduarda 👋
+## Hi There, I'm Eduarda 👋
 
 Welcome to my GitHub profile! I'm a Computer Science Student. Here's a bit more about me and what you'll find in my repositories.
 - 🔭 Love programming and backend
 - 👾 you'll find a lot of projects here
 
-# Olá! Eu sou Eduarda  👋
+## Olá! Eu sou Eduarda  👋
 
 Bem-vindo ao meu perfil no GitHub! Sou um estudante de Ciência da Computação. Aqui está um pouco mais sobre mim e o que você encontrará nos meus repositórios.
 - 🔭 Amo programar e trabalhar com backend
 - 👾 Você encontrará muitos projetos aqui
 
 ---
-## 🔧 Technologies/Tecnologias
+### 🔧 Technologies/Tecnologias
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -21,15 +21,18 @@ Bem-vindo ao meu perfil no GitHub! Sou um estudante de Ciência da Computação.
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
 
-## 📈 GitHub Stats
-![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardaMaia34&show_icons=true&theme=radical)
-[![EduardaMaia34](https://github-readme-stats.vercel.app/api?username=EduardaMaia34&show_icons=true&hide_border=true&theme=radical)](https://github.com/EduardaMaia34)
+### 📈 GitHub Stats
 
-## 🏆 Top Repositories
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardaMaia34&show_icons=true&theme=radical&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaMaia34&layout=compact&theme=radical)
+
+
+### 🏆 Top Repositories
 
 [![time-break-game](https://github.com/EduardaMaia34/time-break-game)]([https://github.com/yourusername/reponame](https://github.com/EduardaMaia34/time-break-game))
 
-## 📫 Get in Touch
+### 📫 Get in Touch
 
 - LinkedIn: ([https://www.linkedin.com/in/eduarda-maia-6a4015212](https://www.linkedin.com/in/eduarda-maia-6a4015212/))
 - Email: [eduardamfmcavalcanti@gmail.com](mailto:eduardamfmcavalcanti@gmail.com)
