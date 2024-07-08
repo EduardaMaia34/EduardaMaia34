@@ -36,6 +36,4 @@ Bem-vindo ao meu perfil no GitHub! Sou um estudante de Ciência da Computação.
 
 ---
 Thank you for visiting my profile. Feel free to explore my repositories and get in touch if you'd like to collaborate!
-
----
 Obrigado por visitar o meu perfil. Fique à vontade para explorar meus repositórios e entrar em contato se quiser colaborar!
