@@ -14,10 +14,10 @@ Bem-vindo ao meu perfil no GitHub! Sou um estudante de Ciência da Computação.
 ### 🔧 Technologies/Tecnologias
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
 
