@@ -17,8 +17,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um estudante de Ciência da Computação.
 
 ### 🏆 Top Repositories
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardaMaia34&repo=projeto-web&theme=radical)](https://github.com/EduardaMaia34/projeto-web)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardaMaia34&repo=time-break-game&theme=radical)](https://github.com/EduardaMaia34/time-break-game)
+- 📚 [**Projeto Bookly**](https://github.com/EduardaMaia34/projeto-web) — Sistema web para avaliação e review de livros.
+- 🎮 [**Jogo Time Break**](https://github.com/EduardaMaia34/time-break-game) — Um jogo desenvolvido inspirado na mecânica do FlapBird.
 
 ### 📫 Get in Touch
 
