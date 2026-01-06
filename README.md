@@ -27,8 +27,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um estudante de Ciência da Computação.
 
 ### 📫 Get in Touch
 
-- LinkedIn: ([https://www.linkedin.com/in/eduarda-maia-6a4015212](https://www.linkedin.com/in/eduarda-maia-6a4015212/))
-- Email: [eduardamfmcavalcanti@gmail.com](mailto:eduardamfmcavalcanti@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduarda-maia-6a4015212/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardamfmcavalcanti@gmail.com)
 
 ---
 Thank you for visiting my profile. Feel free to explore my repositories and get in touch if you'd like to collaborate!
