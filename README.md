@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um estudante de Ciência da Computação.
 
 ---
 ### 🔧 Technologies/Tecnologias
-[(https://skillicons.dev/icons?i=python,java,postgres,idea,stackoverflow,notion,linux,mint&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,postgres,idea,stackoverflow,notion,linux,mint&perline=4)](https://skillicons.dev)
 
 ### 📈 GitHub Stats
 
