@@ -14,16 +14,11 @@ Bem-vindo ao meu perfil no GitHub! Sou um estudante de Ciência da Computação.
 ### 🔧 Technologies/Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=python,java,postgres,idea,stackoverflow,notion,linux,mint&perline=4)](https://skillicons.dev)
 
-### 📈 GitHub Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardaMaia34&show_icons=true&theme=radical&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaMaia34&layout=compact&theme=radical)
-
 
 ### 🏆 Top Repositories
 
-[![Projeto Bookly](https://github.com/EduardaMaia34/projeto-web))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardaMaia34&repo=projeto-web&theme=radical)](https://github.com/EduardaMaia34/projeto-web)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardaMaia34&repo=time-break-game&theme=radical)](https://github.com/EduardaMaia34/time-break-game)
 
 ### 📫 Get in Touch
 
