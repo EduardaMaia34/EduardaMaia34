@@ -12,14 +12,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um estudante de Ciência da Computação.
 
 ---
 ### 🔧 Technologies/Tecnologias
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
+[(https://skillicons.dev/icons?i=python,java,postgres,idea,stackoverflow,notion,linux,mint&perline=4)](https://skillicons.dev)
 
 ### 📈 GitHub Stats
 
@@ -30,7 +23,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um estudante de Ciência da Computação.
 
 ### 🏆 Top Repositories
 
-[![time-break-game](https://github.com/EduardaMaia34/time-break-game)]([https://github.com/yourusername/reponame](https://github.com/EduardaMaia34/time-break-game))
+[![Projeto Bookly](https://github.com/EduardaMaia34/projeto-web))
 
 ### 📫 Get in Touch
 
