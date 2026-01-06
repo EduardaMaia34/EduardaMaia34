@@ -1,14 +1,17 @@
+## Olá! Eu sou Eduarda  👋
+
+Bem-vindo ao meu perfil no GitHub! Sou um estudante de Ciência da Computação. Aqui está um pouco mais sobre mim e o que você encontrará nos meus repositórios.
+- 🔭 Amo programar e desenvolver backend
+- 👾 Você encontrará muitos projetos aqui
+- ⌨️ Tenho experiência prática com Python, Java, PHP, MySQL e Postgres
+
+
 ## Hi There, I'm Eduarda 👋
 
 Welcome to my GitHub profile! I'm a Computer Science Student. Here's a bit more about me and what you'll find in my repositories.
 - 🔭 Love programming and backend
 - 👾 you'll find a lot of projects here
-
-## Olá! Eu sou Eduarda  👋
-
-Bem-vindo ao meu perfil no GitHub! Sou um estudante de Ciência da Computação. Aqui está um pouco mais sobre mim e o que você encontrará nos meus repositórios.
-- 🔭 Amo programar e trabalhar com backend
-- 👾 Você encontrará muitos projetos aqui
+- ⌨️ I´ve worked and have field experience working with Python, Java, PHP, MySQL e Postgres
 
 ---
 ### 🔧 Technologies/Tecnologias
